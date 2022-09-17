@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A developer and musician from Kyiv, Ukraine</h3>
 
-- 🔭 I’m growing my app [a music generation app chrd.io](github.com/chrdio)
+- 🔭 I’m growing my app [a music generation app chrd.io](https://github.com/chrdio)
 
 - 🌱 I’m currently learning **natural language processing and the basics of ML**
 
-- 👯 I’m looking to collaborate on [my new banking API library minimono](github.com/ryzhakar/minimono)
+- 👯 I’m looking to collaborate on [my new banking API library minimono](https://github.com/ryzhakar/minimono)
 
-- 🤝 I’m looking for help with [my Bible-NLP project](github.com/ryzhakar/biblenlp)
+- 🤝 I’m looking for help with [my Bible-NLP project](https://github.com/ryzhakar/biblenlp)
 
 - 💬 Ask me about the **fastapi framework, pydantic models and python in general**
 
