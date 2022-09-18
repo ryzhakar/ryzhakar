@@ -22,4 +22,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzhakar&show_icons=true&locale=en" alt="ryzhakar" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ryzhakar&hide_border=true&ring=7851A9&fire=7851A9&currStreakLabel=7851A9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryzhakar&hide_border=true&ring=7851A9&fire=7851A9&currStreakLabel=7851A9)](https://github.com/chrdio)
